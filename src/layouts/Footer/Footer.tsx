@@ -32,7 +32,7 @@ function Footer() {
               src={logo}
               alt="Logo de Mercado Livre"
               onClick={() => {
-                navigate("/");
+                navigate("/ml-clon");
                 window.scrollTo(0, 0);
               }}
             />
