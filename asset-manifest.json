@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/ml-clon/static/css/main.303083f1.css",
+    "main.js": "/ml-clon/static/js/main.0b9d8abd.js",
+    "static/media/img-2.webp": "/ml-clon/static/media/img-2.b172a2e4a413bb92b551.webp",
+    "static/media/img-4.webp": "/ml-clon/static/media/img-4.0f343757d18eafb3504c.webp",
+    "static/media/logo.png": "/ml-clon/static/media/logo.daf3b0c12f0adc6ef6b2.png",
+    "static/media/img-5.webp": "/ml-clon/static/media/img-5.eb55fa8780d185c4b8e1.webp",
+    "static/media/img-1.webp": "/ml-clon/static/media/img-1.5b80472a9446900ed2cd.webp",
+    "static/media/logo-mobile.png": "/ml-clon/static/media/logo-mobile.89b1735803243717637f.png",
+    "static/media/img-3.webp": "/ml-clon/static/media/img-3.3acc9e298e25e471ec94.webp",
+    "static/media/dplus.svg": "/ml-clon/static/media/dplus.026639f86841d9aa090e5b90428aa4ae.svg",
+    "static/media/promo-img.webp": "/ml-clon/static/media/promo-img.6ba5ce1d478103afeedd.webp",
+    "static/media/payment-agreement.svg": "/ml-clon/static/media/payment-agreement.fa80185833076f8ae51132b290a095fd.svg",
+    "static/media/debit-card.svg": "/ml-clon/static/media/debit-card.2443964b0501158134832903b97e59ce.svg",
+    "static/media/credit-card.svg": "/ml-clon/static/media/credit-card.727f4b0cba95a4a72294554d3192a6c8.svg",
+    "static/media/mercado-creditsv2.svg": "/ml-clon/static/media/mercado-creditsv2.6332a6b4e85692267a3dc3637447bfd0.svg",
+    "static/media/starplus.svg": "/ml-clon/static/media/starplus.cb61ce28350b6f8a4a63eb5d4eaf65ea.svg",
+    "static/media/view-more.svg": "/ml-clon/static/media/view-more.9334c9c6c390b02ebef83631f3643299.svg",
+    "index.html": "/ml-clon/index.html",
+    "static/media/time-positive.svg": "/ml-clon/static/media/time-positive.1b1f03d4cb20269e5a924a3e64eac028.svg",
+    "static/media/message-positive.svg": "/ml-clon/static/media/message-positive.da8856ecf6e12626fb6a9fa4fb94e26e.svg",
+    "static/media/medal.svg": "/ml-clon/static/media/medal.5906b7ff516fa00442dc9fb090a24773.svg",
+    "main.303083f1.css.map": "/ml-clon/static/css/main.303083f1.css.map",
+    "main.0b9d8abd.js.map": "/ml-clon/static/js/main.0b9d8abd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.303083f1.css",
+    "static/js/main.0b9d8abd.js"
+  ]
+}
